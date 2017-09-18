@@ -1,2 +1,4 @@
 # IncomeTaxProject
-Fall 2016, made for cs49c, simple income tax project 
+Small C application to calculate and estimate CA income tax as of 2016 stipulations 
+
+
